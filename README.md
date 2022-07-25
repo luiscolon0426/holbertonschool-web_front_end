@@ -4,4 +4,4 @@
 
 - JavaScript : Frontend developers can already create websites using HTML and CSS. In fact, it wasn’t until 1995 that JavaScript emerged. However, it is now difficult to imagine websites without JavaScript as it enables developers to make sites interactive. The programming language can change website content based on a user’s action.
 
-<img src="/frontend.png" width="950">
+<img src="/frontendrepo.png" width="950">
