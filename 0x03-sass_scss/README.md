@@ -13,3 +13,11 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How to use mixins
 - How to declare extend/inheritance styles
 - How to manipulate operators
+
+```
+$ sudo apt-get install -y ruby2.5 ruby2.5-dev
+$ sudo apt-get install ubuntu-dev-tools
+$ gem install sass -v 3.7.4
+$ sass --version
+Ruby Sass 3.7.4
+```
