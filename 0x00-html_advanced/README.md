@@ -1,17 +1,23 @@
-## Learning Objectives
+<h1 align="center">Welcome to 0x00-html_advanced 👋</h1>
+<p>
+  <a href="https://twitter.com/luiscolon0426" target="_blank">
+    <img alt="Twitter: luiscolon0426" src="https://img.shields.io/twitter/follow/luiscolon0426.svg?style=social" />
+  </a>
+</p>
 
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+> This project focus on advanced html
 
-- Which guidelines to follow for HTML
-- How to create the skeleton of an HTML5 page
-- How to use semantic HTML tags to structure a web page
-- Which use cases to use div vs span
-- The semantic value’s of header, main, footer, article, nav, section, aside
-- How to use headings (and why it’s important to follow the hierarchical order)
-- How to make lists in HTML
-- The differences between medias (SVG, GIF, PNG, JPG)
-- How to structure data in a table
-- How to integrate a video in a webpage
-- How to integrate an audio file in a webpage
-- How to embed external content
-- How to correctly structure an HTML page
+## Author
+
+👤 **Luis Colon**
+
+* Twitter: [@luiscolon0426](https://twitter.com/luiscolon0426)
+* Github: [@luiscolon0426](https://github.com/luiscolon0426)
+* LinkedIn: [@Luis Colon](https://linkedin.com/in/Luis Colon)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
