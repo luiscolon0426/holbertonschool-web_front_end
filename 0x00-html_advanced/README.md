@@ -1,11 +1,14 @@
 <h1 align="center">Welcome to 0x00-html_advanced 👋</h1>
 <p>
+  <a href="https://intranet.hbtn.io/projects/582" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
   <a href="https://twitter.com/luiscolon0426" target="_blank">
     <img alt="Twitter: luiscolon0426" src="https://img.shields.io/twitter/follow/luiscolon0426.svg?style=social" />
   </a>
 </p>
 
-> This project focus on advanced html
+> This project focus on HTML advanced
 
 ## Author
 
