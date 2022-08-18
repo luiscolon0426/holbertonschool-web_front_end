@@ -8,39 +8,14 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 <article class="">
 
-<div class="project row">
-  <div class="col-xs-12 col-md-10 col-lg-8 contains-images">
 
-      <h1 class="gap">0x0A. Bootstrap</h1>
-
-  <div data-react-class="tags/Tags" data-react-props="{&quot;tags&quot;:[]}" data-react-cache-id="tags/Tags-0"></div>
-
-  <div data-react-class="projects/ProjectMetadata" data-react-props="{&quot;metadata&quot;:{&quot;author&quot;:&quot;Guillaume Salva, CTO at Holberton School&quot;,&quot;weight&quot;:1,&quot;correction&quot;:{&quot;released&quot;:false,&quot;requires_auto_correction&quot;:false,&quot;requires_manual_correction&quot;:true},&quot;bpi&quot;:{&quot;current&quot;:true,&quot;started&quot;:false,&quot;in_second_deadline&quot;:false,&quot;starts_at&quot;:&quot;2022-08-18T00:00:00.000-04:00&quot;,&quot;ends_at&quot;:&quot;2022-08-21T00:00:00.000-04:00&quot;,&quot;second_deadline_at&quot;:&quot;2022-08-27T00:00:00.000-04:00&quot;}}}" data-react-cache-id="projects/ProjectMetadata-0"><ul class="list-group metadata" id="project-metadata"><li class="list-group-item"><i aria-hidden="true" class="fa fa-user fa-fw"></i> By: Guillaume Salva, CTO at Holberton School</li><li class="list-group-item"><i aria-hidden="true" class="fa fa-cog fa-fw"></i> Weight: 1</li><li class="list-group-item"><i aria-hidden="true" class="fa fa-calendar fa-fw"></i> Project will start <span data-container="body" data-html="false" data-placement="auto top" data-toggle="tooltip" title="" data-original-title="2022-08-18 00:00 (GMT-04:00)"><span class="datetime">Aug 18, 2022 12:00 AM</span></span>, must end by <span data-container="body" data-html="false" data-placement="auto top" data-toggle="tooltip" title="" data-original-title="2022-08-21 00:00 (GMT-04:00)"><span class="datetime">Aug 21, 2022 12:00 AM</span></span></li><li class="list-group-item"><i aria-hidden="true" class="fa fa-check-square fa-fw"></i> <strong>Manual QA review must be done</strong> (request it when you are done with the project)</li></ul></div>
-
-    <div id="project_id" style="display: none" data-project-id="623"></div>
-
-
-
-
-
-
-
-      <div class="panel panel-default" id="project-description">
-
-  <div class="panel-body">
-    <p><img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/81ad5d3e90751bb185d9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220818%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220818T191111Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=aa7e482ce96d0b64c36da0c6479ac87d5ac174dbf7b7562b075e72755f6742b0" alt="" style=""></p>
-
-<p>Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. 
-It contains <strong>CSS</strong> and <strong>JavaScript</strong> design templates for <em>typography, forms, buttons, navigation, and other interface components.</em></p>
-
-<p>For this project, you will use Bootstrap 4.4 and only the CSS styling part.</p>
 
 <h2>Resources</h2>
 
 <p><strong>Read or watch</strong>:</p>
 
 <ul>
-<li><a href="/rltoken/2co2ipxHSi4kjIU6wAHzgw" title="Bootstrap" target="_blank">Bootstrap</a> </li>
+<li><a href="https://getbootstrap.com/docs/4.4/getting-started/introduction/" title="Bootstrap" target="_blank">Bootstrap</a> </li>
 </ul>
 
 <h2>Learning Objectives</h2>
