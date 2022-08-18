@@ -15,7 +15,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 <p><strong>Read or watch</strong>:</p>
 
 <ul>
-<li><a href="/rltoken/2co2ipxHSi4kjIU6wAHzgw" title="Bootstrap" target="_blank">Bootstrap</a> </li>
+<li><a href="https://getbootstrap.com/docs/4.4/getting-started/introduction/" title="Bootstrap" target="_blank">Bootstrap</a> </li>
 </ul>
 
 <h2>Learning Objectives</h2>
