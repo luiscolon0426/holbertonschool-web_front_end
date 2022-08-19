@@ -1,42 +1,5 @@
+<h1 class="gap">0x07. Accessibility</h1>
 <article class="">
-
-<div class="project row">
-  <div class="col-xs-12 col-md-10 col-lg-8 contains-images">
-
-      <h1 class="gap">0x07. Accessibility</h1>
-
-  <div data-react-class="tags/Tags" data-react-props="{&quot;tags&quot;:[]}" data-react-cache-id="tags/Tags-0"></div>
-
-  <div data-react-class="projects/ProjectMetadata" data-react-props="{&quot;metadata&quot;:{&quot;author&quot;:&quot;David Dias, Senior Software Engineer at HomeX&quot;,&quot;weight&quot;:1,&quot;correction&quot;:{&quot;released&quot;:true,&quot;auto_correction_available_at&quot;:&quot;2022-08-18T12:00:00.000-04:00&quot;,&quot;requires_auto_correction&quot;:true,&quot;requires_manual_correction&quot;:false},&quot;bpi&quot;:{&quot;current&quot;:true,&quot;started&quot;:false,&quot;in_second_deadline&quot;:false,&quot;starts_at&quot;:&quot;2022-08-18T00:00:00.000-04:00&quot;,&quot;ends_at&quot;:&quot;2022-08-19T00:00:00.000-04:00&quot;,&quot;second_deadline_at&quot;:&quot;2022-08-22T00:00:00.000-04:00&quot;}}}" data-react-cache-id="projects/ProjectMetadata-0"><ul class="list-group metadata" id="project-metadata"><li class="list-group-item"><i aria-hidden="true" class="fa fa-user fa-fw"></i> By: David Dias, Senior Software Engineer at HomeX</li><li class="list-group-item"><i aria-hidden="true" class="fa fa-cog fa-fw"></i> Weight: 1</li><li class="list-group-item"><i aria-hidden="true" class="fa fa-calendar fa-fw"></i> Project will start <span data-container="body" data-html="false" data-placement="auto top" data-toggle="tooltip" title="" data-original-title="2022-08-18 00:00 (GMT-04:00)"><span class="datetime">Aug 18, 2022 12:00 AM</span></span>, must end by <span data-container="body" data-html="false" data-placement="auto top" data-toggle="tooltip" title="" data-original-title="2022-08-19 00:00 (GMT-04:00)"><span class="datetime">Aug 19, 2022 12:00 AM</span></span></li><li class="list-group-item"><i aria-hidden="true" class="fa fa-check fa-fw"></i> was released at <span data-container="body" data-html="false" data-placement="auto top" data-toggle="tooltip" title="" data-original-title="2022-08-18 12:00 (GMT-04:00)"><span class="datetime">Aug 18, 2022 12:00 PM</span></span></li><li class="list-group-item"><i aria-hidden="true" class="fa fa-check-square fa-fw"></i> An auto review will be launched at the deadline</li></ul></div>
-
-    <div id="project_id" style="display: none" data-project-id="601"></div>
-
-
-
-
-
-        <div class="panel panel-default">
-    <div class="panel-heading">
-      <h3 class="panel-title">Concepts</h3>
-    </div>
-    <div class="panel-body">
-      <p>
-        <em>For this project, we expect you to look at this concept:</em>
-      </p>
-
-      <ul>
-          <li>
-            <a href="/concepts/186">A Crash Course on Accessibility</a>
-          </li>
-      </ul>
-    </div>
-
-  </div>
-
-      <div class="panel panel-default" id="project-description">
-
-  <div class="panel-body">
-    <p><img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/12/66ba13a2581c5457361a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220818%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220818T192347Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1bd220d2468a8c6f12701189a32dbec8c2e3f05a8094ad604097a17c612cd61e" alt="" style=""></p>
 
 <h2>Resources</h2>
 
